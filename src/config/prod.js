@@ -1,4 +1,4 @@
 module.exports ={
-    baseUrl: "https://surl.vercel.app/",
+    baseUrl: "https://surl-apps.vercel.app",
     DB: process.env.DB
 }
